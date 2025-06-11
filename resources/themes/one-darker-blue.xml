@@ -1,19 +1,19 @@
 <scheme name="One Darker Blue" parent_scheme="Darcula" version="142">
     <colors>
         <option name="ADDED_LINES_COLOR" value="89ca78"/>
-        <option name="ANNOTATIONS_COLOR" value="a0a7b4"/>
-        <option name="Bookmark.Mnemonic.iconForeground" value="a0a7b4"/>
+        <option name="ANNOTATIONS_COLOR" value="92a4c3"/>
+        <option name="Bookmark.Mnemonic.iconForeground" value="92a4c3"/>
         <option name="Bookmark.Mnemonic.iconBackground" value="3d424b"/>
         <option name="Bookmark.Mnemonic.iconBorderColor" value="568AF2"/>
-        <option name="BookmarkMnemonicIcon.foreground" value="a0a7b4"/>
+        <option name="BookmarkMnemonicIcon.foreground" value="92a4c3"/>
         <option name="BookmarkMnemonicIcon.background" value="3d424b"/>
         <option name="BookmarkMnemonicIcon.borderColor" value="568AF2"/>
         <option name="CARET_COLOR" value="528bff"/>
-        <option name="CARET_ROW_COLOR" value="2D324B"/>
+        <option name="CARET_ROW_COLOR" value="1d2238"/>
         <option name="CONSOLE_BACKGROUND_KEY" value=""/>
         <option name="DELETED_LINES_COLOR" value="ef596f"/>
         <option name="DIAGRAM_ANNOTATION_EDGE" value="e5c07b"/>
-        <option name="DIAGRAM_DEFAULT_EDGE" value="a0a7b4"/>
+        <option name="DIAGRAM_DEFAULT_EDGE" value="92a4c3"/>
         <option name="DIAGRAM_GENERALIZATION_EDGE" value="61afef"/>
         <option name="DIAGRAM_INNER_EDGE" value="ef596f"/>
         <option name="DIAGRAM_NODE_BACKGROUND" value="323844"/>
@@ -21,7 +21,7 @@
         <option name="DIAGRAM_NOTE_BACKGROUND" value="414855"/>
         <option name="DIAGRAM_NOTE_BORDER" value="4a566c"/>
         <option name="DIAGRAM_REALIZATION_EDGE" value="89ca78"/>
-        <option name="DIFF_SEPARATORS_BACKGROUND" value="21252b"/>
+        <option name="DIFF_SEPARATORS_BACKGROUND" value="222c3c"/>
         <option name="DOCUMENTATION_COLOR" value="3d424b"/>
         <option name="ERROR_HINT" value="781732"/>
         <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="4f575f"/>
@@ -33,7 +33,7 @@
         <option name="HTML_TAG_TREE_LEVEL3" value="2bbac5"/>
         <option name="HTML_TAG_TREE_LEVEL4" value="61afef"/>
         <option name="HTML_TAG_TREE_LEVEL5" value="d55fde"/>
-        <option name="INDENT_GUIDE" value="354651"/>
+        <option name="INDENT_GUIDE" value="354e5f"/>
         <option name="INFORMATION_HINT" value="3d424b"/>
         <option name="JUPYTER.CELL_UNDER_CARET_COMMAND_MODE_STRIPE_COLOR" value="568AF2" />
         <option name="JUPYTER.CODE_CELL_BACKGROUND" value="2d3139" />
@@ -41,13 +41,13 @@
         <option name="JUPYTER.SAUSAGE_BUTTON_BORDER_COLOR" value="333841" />
         <option name="LINE_NUMBERS_COLOR" value="495162"/>
         <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="737984"/>
-        <option name="LOOKUP_COLOR" value="21252b"/>
+        <option name="LOOKUP_COLOR" value="222c3c"/>
         <option name="METHOD_SEPARATORS_COLOR" value="3b4048"/>
         <option name="MODIFIED_LINES_COLOR" value="d19a66"/>
         <option name="QUESTION_HINT" value="2e4280"/>
         <option name="RECENT_LOCATIONS_SELECTION" value="3d424b"/>
         <option name="RIGHT_MARGIN_COLOR" value="4d5768"/>
-        <option name="ScrollBar.background" value="2a3549"/>
+        <option name="ScrollBar.background" value="283752"/>
         <option name="SELECTED_INDENT_GUIDE" value="4d5768"/>
         <option name="SELECTED_TEARLINE_COLOR" value="6b6e73"/>
         <option name="SELECTION_BACKGROUND" value="2D324B"/>
@@ -56,8 +56,8 @@
         <option name="VCS_ANNOTATIONS_COLOR_1" value="335027"/>
         <option name="VCS_ANNOTATIONS_COLOR_2" value="3e443c"/>
         <option name="VCS_ANNOTATIONS_COLOR_5" value="46333c"/>
-        <option name="VISUAL_INDENT_GUIDE" value="354651"/>
-        <option name="WHITESPACES" value="354651"/>
+        <option name="VISUAL_INDENT_GUIDE" value="354e5f"/>
+        <option name="WHITESPACES" value="354e5f"/>
         <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="435371"/>
     </colors>
     <attributes>
@@ -272,7 +272,7 @@
         </option>
         <option name="CONSOLE_GRAY_OUTPUT">
             <value>
-                <option name="ERROR_STRIPE_COLOR" value="21252b"/>
+                <option name="ERROR_STRIPE_COLOR" value="222c3c"/>
                 <option name="FOREGROUND" value="646a73"/>
             </value>
         </option>
@@ -1076,7 +1076,7 @@
         </option>
         <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="353940"/>
+                <option name="BACKGROUND" value="334056"/>
                 <option name="ERROR_STRIPE_COLOR" value="4d78cc" />
                 <option name="EFFECT_TYPE" value="1"/>
             </value>
@@ -1219,7 +1219,7 @@
         </option>
         <option name="JUPYTER.SAUSAGE_BUTTON_APPEARANCE">
             <value>
-                <option name="FOREGROUND" value="a0a7b4" />
+                <option name="FOREGROUND" value="92a4c3" />
                 <option name="BACKGROUND" value="3d424b" />
             </value>
         </option>
@@ -2267,7 +2267,7 @@
         </option>
         <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="353940"/>
+                <option name="BACKGROUND" value="334056"/>
                 <option name="ERROR_STRIPE_COLOR" value="4d78cc" />
                 <option name="EFFECT_TYPE" value="1"/>
             </value>
